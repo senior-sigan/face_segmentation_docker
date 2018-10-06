@@ -1,0 +1,3 @@
+[submodule "face_segmentation"]
+	path = face_segmentation
+	url = git@github.com:YuvalNirkin/face_segmentation.git
